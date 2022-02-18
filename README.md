@@ -10,7 +10,7 @@
   <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissa0&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-Linguagens que estou aprendendo <br> <br>
+Aprendendo + sobre: <br> <br>
 
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -19,7 +19,7 @@ Linguagens que estou aprendendo <br> <br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <br> <br>
   
-  Ferramentas que já utilizo <br> <br>
+  Ferramentas que já utilizo: <br> <br>
 
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
