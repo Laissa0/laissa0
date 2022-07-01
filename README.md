@@ -2,7 +2,7 @@
 
 👩‍💻Meu nome é **Laissa Soares** <br>
 🎓Sou estudante de **Engenharia de Tecnologia Assistiva**<br>
-💻**UI/UX Designer** na Tix Tecnologia Assistiva<br>
+💻**Front-end** na Tix Tecnologia Assistiva<br>
 
 <div align="center">
   <a href="https://github.com/laissa0">
